@@ -11,7 +11,7 @@ Dog-size preference of the potential owner:" Which size of dog would you prefer?
 
 For the user\`s convenience initially the program asks the user – would he/she like to answer all the needed questions within the program or would like to import the beforehand prepared file with all the information (answers).
 
-![name-of-you-image](https://your-copied-image-address)
+![name-of-you-image](https://github.com/rolnikolay/Dog-selection-recommender/blob/main/Picture%201.png)
 
 
 2. IF/while is used twice:
