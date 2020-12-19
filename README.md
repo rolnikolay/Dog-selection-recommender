@@ -1,5 +1,10 @@
 # Dog selection recommender
 
+## How to start using the program
+1. Download 
+2. Download "data.txt" file
+3. install easygui package for python. refer to this ![page](https://pypi.org/project/easygui/) for more info
+
 
 The program prompts the user for some specific data about the lifestyle habits and factors that are important to consider when looking for the best dog breed match.
 The program asks the following data:
