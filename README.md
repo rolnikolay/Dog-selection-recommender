@@ -28,7 +28,8 @@ The program will make the recommendation based on points collected by the user. 
 For the final decision program will use nested data structure, having  the answer to the last question. The program will make the initial decision from the nested data structure, that reflects the type of dog(companion/guard/sporting)
 breeds_base = [[small breeds],[medium breeds],[large breeds]], [[small breeds],[medium breeds],[large breeds]], [[small breeds],[medium breeds],[large breeds]
 
-The program outputs the most matching breed according to the inserted data (options are offered based on differentbreeds’ specific characteristics match with the user\`sdesires) Possible outputs (look at print lines):
+The program outputs the most matching breed according to the inserted data (options are offered based on differentbreeds’ specific characteristics match with the user\`s desires)
+Possible outputs (look at print lines):
 ![name-of-you-image](https://github.com/rolnikolay/Dog-selection-recommender/blob/main/Picture%207.png)
 
 All the outputs consists of some specific offers + hyperlink that can be then inserted to the SE and used + the recommendation to consider adoption from the shelter.
