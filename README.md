@@ -1,11 +1,22 @@
 # Dog selection recommender
 
 ## How to start using the program
-1. Download "Dog selection recommender.py"
-2. Download "data.txt" file
+1. Download ["Dog selection recommender.py"](https://github.com/rolnikolay/Dog-selection-recommender/blob/main/Dog%20selection%20recommender.py) file
+2. Download ["data.txt"](https://github.com/rolnikolay/Dog-selection-recommender/blob/main/data.txt) file
 3. install easygui package for python. refer to this [page](https://pypi.org/project/easygui/) for more info
 
+Open ["Dog selection recommender.py"](https://github.com/rolnikolay/Dog-selection-recommender/blob/main/Dog%20selection%20recommender.py) file in IDE of your preference (I used VisualStudio code).
+Make sure that ["data.txt"](https://github.com/rolnikolay/Dog-selection-recommender/blob/main/data.txt) and ["Dog selection recommender.py"](https://github.com/rolnikolay/Dog-selection-recommender/blob/main/Dog%20selection%20recommender.py) file are in the same directory (folder).
+Run the program.
 
+If you want - you may change the data.txt file, but follow the logic of answers. The file data.txt consists of answers to 5 questions from the program. You have to provide answers to 5 questions in the data.txt file, each answer being on a new line. The questions and answers are:
+* Level of physical activity:  “Please, choose the level of your physical activity – high, medium, low: “ 
+* Property size: “How would you describe your living property? (big, medium, small)”
+* Place of living: “Please, specify, where do you live – city/countryside” 
+* Walking with a dog time: "How many hours are you going to spend on the walking?
+* Dog-size preference of the potential owner:" Which size of dog would you prefer? (big, medium, small)
+
+## Program description
 The program prompts the user for some specific data about the lifestyle habits and factors that are important to consider when looking for the best dog breed match.
 The program asks the following data:
 * Level of physical activity:  “Please, choose the level of your physical activity – high, medium, low: “ 
